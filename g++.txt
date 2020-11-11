@@ -1,0 +1,1 @@
+g++ -lm -O2 -fno-stack-limit -std=c++17 -x c++ ./imggrad.cpp -o ./../imggrad.exe
